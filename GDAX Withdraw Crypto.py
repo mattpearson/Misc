@@ -1,4 +1,4 @@
-## Example of how to withdraw crypto from GDAX exchange without using 3rd party API.
+## Example of how to withdraw crypto from GDAX exchange without using 3rd party API. 
 
 import json, hmac, hashlib, time, requests, base64
 from requests.auth import AuthBase
